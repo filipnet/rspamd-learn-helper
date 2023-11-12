@@ -1,3 +1,7 @@
+[![BSD License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/filipnet/rspamd-learn-helper)](https://github.com/filipnet/rspamd-learn-helper/graphs/contributors)
+
+
 # rspamd-learn-helper
 Utility script for rspamd spam and ham training.
 
