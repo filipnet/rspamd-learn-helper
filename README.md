@@ -1,6 +1,7 @@
 [![BSD License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/filipnet/rspamd-learn-helper)](https://github.com/filipnet/rspamd-learn-helper/graphs/contributors)
-
+[![email-filtering](https://img.shields.io/badge/topic-email--filtering-brightgreen)](https://github.com/topics/email-filtering)
+[![spam-detection](https://img.shields.io/badge/topic-spam--detection-blue)](https://github.com/topics/spam-detection)
+[![mail-server](https://img.shields.io/badge/topic-mail--server-lightgrey)](https://github.com/topics/mail-server)
 
 # rspamd-learn-helper
 Utility script for rspamd spam and ham training.
