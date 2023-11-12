@@ -53,7 +53,7 @@ For automated training, consider scheduling the script as a recurring task using
 
 Example of running the script every day at 3 AM:
 ```bash
-0 3 * * * /path/to/rspamd-learn-helper/rspamd-learn-helper.sh
+0 3 * * * /path/to/rspamd-learn-helper/rspamd-learn-helper.sh >/dev/null 2>&1
 ```
 
 ## Contributions
