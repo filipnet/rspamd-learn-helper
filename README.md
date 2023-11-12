@@ -60,4 +60,4 @@ Example of running the script every day at 3 AM:
 Contributions to this project are welcome! Whether you want to add features, fix bugs, or improve documentation, feel free to submit a pull request.
 
 ## License
-This project is licensed under the BSD License, take a look at LICENSE for details.
+This project is licensed under the BSD 3-Clause "New" or "Revised" License, take a look at LICENSE for details.
