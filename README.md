@@ -7,7 +7,7 @@
 Utility script for rspamd spam and ham training.
 
 ## Description
-<img src="spam-7515839_640.png" alt="Image from [Pixabay](https://pixabay.com/vectors/spam-advertising-e-mail-write-7515839/)" align="right" width="300" height="auto"/>
+<img src="images/logo-rspamd-learn-helper.png" alt="Logo)" align="right" width="300" height="auto"/>
 
 The `rspamd-learn-helper` is a utility script designed to streamline the training process for SPAM and HAM filters in the [rspamd](https://rspamd.com/) email filtering system. It provides an easy and automated way to enhance the effectiveness of rspamd's spam detection by allowing users to actively contribute to the training process.
 
